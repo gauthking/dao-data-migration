@@ -1,0 +1,16 @@
+{
+  "name": "datamigration",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "Gautham Krishna",
+  "license": "ISC",
+  "dependencies": {
+    "bottleneck": "^2.19.5",
+    "ethers": "^6.6.0",
+    "hardhat": "^2.16.1"
+  }
+}
